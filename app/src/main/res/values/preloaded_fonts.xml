@@ -2,5 +2,10 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/aclonica</item>
+        <item>@font/baloo_tamma_2</item>
+        <item>@font/krona_one</item>
+        <item>@font/m_plus_1p_medium</item>
+        <item>@font/m_plus_rounded_1c</item>
+        <item>@font/m_plus_rounded_1c_medium</item>
     </array>
 </resources>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CareerGuidance</string>
+    <string name="slider_heading">Get career guidence</string>
+    <string name="slider_dis">Confused what career path to purse?\nGet free guidance with Chooser</string>
 </resources>
